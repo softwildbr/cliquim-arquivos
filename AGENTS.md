@@ -10,6 +10,10 @@
 ## Cuidados deste projeto
 ATENÇÃO: o repositório é público. Não publicar credenciais, relatórios internos, dados de usuários ou ativos restritos. Rever termos de licença antes de divulgar como open source e preservar operações SAF seguras.
 
+## Contribuintes externos
+
+Este repositório é **público**, mas o manual empresarial `github-governance` é privado e só fica acessível a integrantes autorizados. Para contribuições externas, as instruções deste arquivo, do README e do template de Pull Request são autossuficientes; não publicar detalhes internos nem usar documentação privada como pré-requisito obrigatório.
+
 ## Protocolo de mudança
 - Tratar hipótese, proposta, código implementado, compilação, teste e lançamento como estados diferentes.
 - Para alterações de produto, preferir Issue → branch de trabalho → Pull Request → build/teste pertinente → revisão. Não mesclar alterações críticas sem autorização; não assumir que `main` corresponde à última candidata de desenvolvimento.
