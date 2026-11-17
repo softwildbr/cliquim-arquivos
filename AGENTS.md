@@ -8,7 +8,7 @@
 
 ## Ler antes de modificar
 1. [README.md](README.md), documentação e decisões locais; lá está o **estado técnico canônico**, que deve ser verificado contra branches, PRs, releases e evidências.
-2. [Diretrizes transversais](https://github.com/studiocliquim-max/github-governance/blob/main/docs/GITHUB_GUIDELINES.md), [regras para agentes](https://github.com/studiocliquim-max/github-governance/blob/main/docs/AGENT_RULES.md) e [handoff geral](https://github.com/studiocliquim-max/github-governance/blob/main/docs/HANDOFF.md) (acesso privado quando aplicável).
+2. [Diretrizes transversais](https://github.com/softwildbr/github-governance/blob/main/docs/GITHUB_GUIDELINES.md), [regras para agentes](https://github.com/softwildbr/github-governance/blob/main/docs/AGENT_RULES.md) e [handoff geral](https://github.com/softwildbr/github-governance/blob/main/docs/HANDOFF.md) (acesso privado quando aplicável).
 3. Issues, Pull Requests, branches e workflows relevantes antes de decidir alterar código.
 
 ## Cuidados deste projeto
