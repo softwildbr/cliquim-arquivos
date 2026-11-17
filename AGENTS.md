@@ -1,5 +1,9 @@
 # Instruções para agentes — cliquim-arquivos
 
+## Marca-mãe vigente — 17/11/2026
+
+**Identidade corporativa vigente (17/11/2026): **Soft Wild**.** Em novas referências corporativas, usar Soft Wild. Não afirmar marca registrada, domínio/perfil disponível, nem renomear produtos, repositórios, packages, APIs, arquivos históricos ou identidade visual sem autorização adicional. O estado técnico e as prioridades deste repositório continuam regidos pelas seções abaixo.
+
 **Escopo:** gerenciador de arquivos Android, repositório público. Este arquivo acrescenta orientações de trabalho; não aprova funcionalidades, publicação nem mudança de identidade.
 
 ## Ler antes de modificar
