@@ -1,4 +1,4 @@
-# Instruções para agentes — cliquim-arquivos
+# Instruções para agentes — softwild-arquivos
 
 ## Marca-mãe vigente — 17/11/2026
 
