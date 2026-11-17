@@ -26,4 +26,4 @@ Resuma arquivos/módulos, interfaces, permissões ou comportamento observável.
 
 Indicar SHA/branch de base, relação com versão vigente, o que continua pendente e quem autorizou eventual merge/distribuição. **Abrir PR não significa release, aprovação de interface nem teste concluído.**
 
-[Guia para agentes](../AGENTS.md) · [Governança interna](https://github.com/studiocliquim-max/github-governance)
+[Guia para agentes](../AGENTS.md) · [Governança interna](https://github.com/softwildbr/github-governance)
