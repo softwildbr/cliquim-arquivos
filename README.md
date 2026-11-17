@@ -1,6 +1,6 @@
 # Cliquim Arquivos
 
-**Identidade corporativa vigente (17/11/2026): **Soft Wild**.** Nome escolhido pelo fundador para a empresa maker; não equivale à liberação no INPI, de domínios ou de perfis. Marcas, nomes técnicos e histórico do produto continuam intactos até migração aprovada.
+**Identidade corporativa vigente (17/11/2026): Soft Wild.** Nome escolhido pelo fundador para a empresa maker; não equivale à liberação no INPI, de domínios ou de perfis. Marcas, nomes técnicos e histórico do produto continuam intactos até migração aprovada.
 
 Gerenciador local para Android inspirado em interfaces de desktop dos anos 1990, com ativos vetoriais próprios. Protótipo funcional 0.1.0 para avaliação, não publicado na Play Store.
 
