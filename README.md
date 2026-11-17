@@ -33,3 +33,7 @@ Assinatura debug apenas para teste. Não armazenar chaves no repositório.
 ## Referência
 https://guidebookgallery.org/screenshots/win98se/
 Imagem Explorer 98 SE inspecionada visualmente; imagens históricas não incorporadas ao APK. Cores inspiradas, ícones vetoriais originais. Sem logotipos/sons/fontes Microsoft. Revisão jurídica e de marca antes da venda.
+
+## Endereço canônico — 17/11/2026
+
+Migração técnica autorizada: [`softwildbr/softwild-arquivos`](https://github.com/softwildbr/softwild-arquivos), antes `cliquim-arquivos`. O endereço anterior redireciona para este. A mudança do slug não renomeia packages Android, dados, assinaturas, artefatos, versões ou marcas próprias dos produtos. Branches e PRs de desenvolvimento foram preservados; não foi escolhida uma candidata nova nem realizado build/instalação. Atualize o remote de novos trabalhos para o endereço canônico, mantendo o nome da pasta local quando houver consumidores.
